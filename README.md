@@ -4,3 +4,5 @@
 As part of a fourth year Computer Vision module, applying advanced techniques to recreate a model of Durham marketplace and the interior of a supermarket.
 
 Developed in Three.js. With a free camera, level-of-detail (LOD) modelling, multi-resolution textures and shadow optimisation, parametric curves for ground surfaces and skeletal animations in Blender, ray tracing, various lighting techniques and anti-aliasing.
+
+_Disclaimer: This work is for reference only. Copying any part of this work is prohibited._
