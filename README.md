@@ -1,5 +1,5 @@
 # Advanced-Graphics
-**Fourth Year (2023/2024) Advanced Graphics and Visualisation Module - 63% average**
+**Fourth Year (2023/2024) Advanced Graphics and Visualisation Module**
 
 As part of a fourth year Computer Vision module, applying advanced techniques to recreate a model of Durham marketplace and the interior of a supermarket.
 
